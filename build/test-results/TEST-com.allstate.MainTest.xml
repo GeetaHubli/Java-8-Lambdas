@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.allstate.MainTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-01-03T09:59:40" hostname="COMPOZED-AL-012" time="0.036">
+  <properties/>
+  <testcase name="testSearchByOfficeNameByVowel" classname="com.allstate.MainTest" time="0.033"/>
+  <testcase name="testNoOfEmployeeLessThanTen" classname="com.allstate.MainTest" time="0.0"/>
+  <testcase name="testSearchByOfficeNameBetweenAtoK" classname="com.allstate.MainTest" time="0.0"/>
+  <testcase name="testSearchByOfficeName" classname="com.allstate.MainTest" time="0.001"/>
+  <testcase name="testNoOfEmployeeMoreThanHundred" classname="com.allstate.MainTest" time="0.001"/>
+  <testcase name="testSearchByLocationForListOfOffice" classname="com.allstate.MainTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
